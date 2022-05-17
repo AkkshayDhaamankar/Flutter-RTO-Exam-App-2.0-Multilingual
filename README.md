@@ -17,6 +17,13 @@ https://play.google.com/store/apps/details?id=com.tsbempire.rto_exam_2f
 11. Used ***Flutter animation widgets*** for animating splash screen.
 12. Integrated ***Google Admob*** for app monetization.
 
+# Splash Screen Animation :
+
+https://user-images.githubusercontent.com/25646373/168883126-0131ab14-6713-45ae-b30d-adc10b5fe997.mp4
+
+
+
+
 # App Screenshots : 
 ![WhatsApp Image 2022-05-17 at 11 41 52 PM](https://user-images.githubusercontent.com/25646373/168882869-be22e52e-84cb-45d6-9bbc-9db17edc99c7.jpeg)
 ![WhatsApp Image 2022-05-17 at 11 41 56 PM](https://user-images.githubusercontent.com/25646373/168882878-234fd4db-0e26-4881-94ac-77cedc66203e.jpeg)
