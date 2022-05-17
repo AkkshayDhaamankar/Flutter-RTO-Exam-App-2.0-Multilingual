@@ -11,4 +11,5 @@
 8. Implemented **Localization** to deliver app in 5 different languages.
 9. Used **Clean Architecture**.
 10. Used **GetIt** for dependency injection.
-11. Used **Flutter animation widgets** for animating splash screen. 
+11. Used **Flutter animation widgets** for animating splash screen.
+12. Integrated **Google Admob** for app monetization.
