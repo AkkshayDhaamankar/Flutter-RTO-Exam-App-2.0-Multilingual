@@ -22,6 +22,13 @@ https://play.google.com/store/apps/details?id=com.tsbempire.rto_exam_2f
 https://user-images.githubusercontent.com/25646373/168883126-0131ab14-6713-45ae-b30d-adc10b5fe997.mp4
 
 
+# App Walkthrough :
+
+
+
+https://user-images.githubusercontent.com/25646373/168885740-5d9ed3a4-351f-4191-af1c-c843a38a6922.mp4
+
+
 
 
 # App Screenshots : 
