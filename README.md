@@ -1,9 +1,9 @@
 # Flutter-RTO-Exam-App-2.0-Multilingual
 
 # Tech Summary :
-1. Used **Riverpod** for state management.
-2. Used **Autoroute** to simply app navigation.
-3. Used **Secure Storage** dependency to store decryption token securely.
+1. Used ***Riverpod*** for state management.
+2. Used ***Autoroute*** to simply app navigation.
+3. Used ***Secure Storage*** dependency to store decryption token securely.
 4. Used **Firestore** for cloud storage.
 5. Used **Encrypt** dependency to securely store app database.
 6. Integrated **Notifications** to notify user about festivals.
