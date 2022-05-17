@@ -1,5 +1,8 @@
 # Flutter-RTO-Exam-App-2.0-Multilingual
 
+# Play Store Link :
+https://play.google.com/store/apps/details?id=com.tsbempire.rto_exam_2f
+
 # Tech Summary :
 1. Used ***Riverpod*** for state management.
 2. Used ***Autoroute*** to simply app navigation.
